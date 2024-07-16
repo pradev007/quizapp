@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "384243493921",
+    "project_id": "qnquizz",
+    "storage_bucket": "qnquizz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384243493921:android:8c2f93425fc5c2425a4760",
+        "android_client_info": {
+          "package_name": "com.example.qnquizz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK-hikdQiujHp3RnzZl8Uzg1NwNfJjw7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384243493921:android:dff354ace17b914f5a4760",
+        "android_client_info": {
+          "package_name": "com.example.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK-hikdQiujHp3RnzZl8Uzg1NwNfJjw7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

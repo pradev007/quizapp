@@ -1,0 +1,10 @@
+{
+    "editor.wordWrapColumn": 120,
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "json.schemas": [
+
+
+    ],
+    "json.schemaDownload.enable": false
+}
